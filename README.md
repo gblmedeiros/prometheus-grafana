@@ -5,5 +5,5 @@ You need `docker-compose` - checkout the [install guide](https://docs.docker.com
 
 ### Usage
 ```
-$ docker-compose run -d
+$ docker-compose up -d
 ```
